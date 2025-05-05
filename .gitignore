@@ -7,46 +7,33 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
 # Dependency directories
 node_modules/
 
 # Build output
 /dist/
 /build/
+/dist-ssr/
 
-# TypeScript files
+# TypeScript
 *.tsbuildinfo
 
 # Environment files
+*.local
 .env
 .env.local
 .env.*.local
 
-# Logs
-*.log
-
-# Operating system files
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Editor directories and files
+# IDEs and editors
 .vscode/
+.vscode/extensions.json
 .idea/
-
-# NPM package lock file (if desired to ignore it)
-# package-lock.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
