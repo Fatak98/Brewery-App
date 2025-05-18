@@ -19,10 +19,3 @@ An interactive React + TypeScript application for exploring breweries across the
 - **Axios** for API requests
 - **React Router DOM** for navigation
 
-## 🚀 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/brewery-finder.git
-cd brewery-finder
